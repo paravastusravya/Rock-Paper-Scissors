@@ -1,0 +1,29 @@
+.popContainer {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: centers;
+}
+
+.rulesContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.rulesText {
+  background-color: white;
+  font-family: 'Bree Serif';
+  color: #223a5f;
+  font-size: 15px;
+  border-width: 0px;
+  width: 70px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.rulesImage {
+  height: 500px;
+  width: 500px;
+}
